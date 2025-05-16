@@ -863,7 +863,7 @@ section,
 }
 
 .hero .icon-box i {
-  font-size: 150px;
+  font-size: 10px;
   line-height: 1;
   color: var(--accent-color);
 }
