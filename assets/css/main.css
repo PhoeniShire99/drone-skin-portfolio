@@ -863,12 +863,12 @@ section,
 }
 
 .hero .icon-box i {
-  font-size: 20px;
+  font-size: 150px;
   line-height: 1;
   color: var(--accent-color);
 }
 
-.hero .icon-box h3 {
+.hero .icon-box h4 {
   font-weight: 700;
   margin: 10px 0 0 0;
   padding: 0;
@@ -877,7 +877,7 @@ section,
   line-height: 26px;
 }
 
-.hero .icon-box h3 a {
+.hero .icon-box h4 a {
   color: color-mix(in srgb, var(--default-color), transparent 20%);
   transition: ease-in-out 0.3s;
 }
@@ -886,7 +886,7 @@ section,
   border-color: var(--accent-color);
 }
 
-.hero .icon-box:hover h3 a {
+.hero .icon-box:hover h4 a {
   color: var(--accent-color);
 }
 
