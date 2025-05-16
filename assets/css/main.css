@@ -851,7 +851,7 @@ section,
 }
 
 .hero .icon-box {
-  padding: 30px 20px;
+  padding: 10px 10px;
   transition: ease-in-out 0.3s;
   border: 1px solid color-mix(in srgb, var(--default-color), transparent 70%);
   height: 100%;
